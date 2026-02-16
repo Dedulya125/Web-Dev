@@ -6,8 +6,8 @@ body {
 
 .loginpage {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: center; /* по горизонтали */
+  align-items: center;     /* по вертикали */
   height: 100vh;
 }
 
